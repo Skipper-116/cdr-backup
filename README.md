@@ -29,8 +29,8 @@
 
 We welcome contributions from everyone. Here are some ways you can contribute:
 
-- [Reporting bugs](https://github.com/username/projectname/issues)
-- [Suggesting new features](https://github.com/username/projectname/issues)
+- [Reporting bugs](https://github.com/Skipper-116/cdr-backup/issues)
+- [Suggesting new features](https://github.com/Skipper-116/cdr-backup/issues)
 - Writing or editing documentation
 - Writing tests
 - Fixing bugs
