@@ -1,0 +1,11 @@
+[package]
+name = "cdr_backup"
+description = "A simple backup tool for CDR Malawi"
+version = "0.1.0"
+edition = "2021"
+authors = ["Roy Chanunkha<fourth.parr_09@icloud.com>"]
+license = "MIT"
+keywords = ["cdr", "backup", "malawi", "cdr-malawi"]
+
+[dependencies]
+yaml-rust = "0.4"
