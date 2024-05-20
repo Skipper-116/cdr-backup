@@ -8,8 +8,8 @@
 ## Installation
 
 1. Install Rust: Follow the instructions on the [official Rust website](https://www.rust-lang.org/tools/install) to install Rust on your machine.
-2. Clone the repository: `git clone https://github.com/username/projectname.git`
-3. Navigate into the project directory: `cd projectname`
+2. Clone the repository: `git clone https://github.com/Skipper-116/cdr-backup.git`
+3. Navigate into the project directory: `cd cdr-backup`
 4. Build the project: `cargo build`
 
 ## Running the Project
@@ -23,7 +23,7 @@
 ## Deployment
 1. Build the project: `cargo build --release`
 2. Navigate to the target directory: `cd target/release`
-3. Run the project: `./projectname`
+3. Run the project: `./cdr-backup`
 
 ## Contributing
 
